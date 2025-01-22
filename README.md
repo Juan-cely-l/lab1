@@ -78,6 +78,7 @@ Se configuro el repositorio local clonando el repositorio remoto.
 
 **9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).**
 
+![alt text](<assets/imagen 9.png>)  
 
 
 
