@@ -52,3 +52,35 @@
 
 Se configuro el repositorio local clonando el repositorio remoto.
 ![alt text](<assets/imagen 5.png>)
+
+![alt text](<assets/imagen 6.png>)
+
+
+**7.	Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3**
+    Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
+   	```bash
+      git add .
+    ```
+
+    ```bash
+      git commit -m "mensaje, lo que hiciste con el archivo"
+    ```
+
+    ```bash
+      git push "url repositorio"
+    ```
+![alt text](<assets/imagen 7.png>)   
+
+
+**8.	Configura el correo en git local de manera correcta.**
+
+![alt text](<assets/imagen 8.png>)  
+
+**9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).**
+
+
+
+
+
+
+
