@@ -4,7 +4,7 @@
 
 **1.	Crea un repositorio localmente.**
 
-    ![alt text](<assets/imagen 1.png>)
+![alt text](<assets/imagen 1.png>)
     
 
 **2.	Agrega un archivo de ejemplo al repositorio, el **README.md** puede ser una gran opción.**
